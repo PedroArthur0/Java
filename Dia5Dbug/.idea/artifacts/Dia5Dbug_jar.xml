@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dia5Dbug:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dia5Dbug_jar</output-path>
+    <root id="archive" name="Dia5Dbug.jar">
+      <element id="module-output" name="Dia5Dbug" />
+    </root>
+  </artifact>
+</component>
